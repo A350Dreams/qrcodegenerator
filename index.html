@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>QR Code Generator</title>
   <script src="https://cdn.jsdelivr.net/npm/qrcode/build/qrcode.min.js"></script>
   <link rel="icon" type="image/png" href="https://cdn.discordapp.com/attachments/1377572968766636084/1381350183232868526/Screenshot_2025-06-08_201214.png?ex=6847321b&is=6845e09b&hm=15d562784c0143ff95e5c42122c8b3dda0303e62fb795fb4e447de90f95acfb5&">
@@ -179,3 +180,4 @@
 
 </body>
 </html>
+
